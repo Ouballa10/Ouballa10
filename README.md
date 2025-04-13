@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ouballa10
 - 👀 I’m interested in programming, and web development
-- 🌱 I’m currently learning C#, Java, HTML, CSS, JavaScript, and C
+- 🌱 I’m currently learning C#  and C , Java, HTML, CSS, JavaScript, and PHP
 - 💞️ I’m looking to collaborate on coding projects or web applications
 - 📫 How to reach me you can DM me here or email me at abdoouballa123@gmail.com 
 - 😄 Pronouns: ...
